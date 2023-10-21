@@ -1,0 +1,21 @@
+{
+    "user1" : {
+       "name" : "Ruthvik",
+       "city":"charlotte",
+       "phone":"262 456 7890"
+    },
+    
+    "user2" : {
+       "name" : "Sri",
+       "city":"milwaukee",
+       "phone":"608 456 7890"
+
+      
+    },
+    
+    "user3" : {
+       "name" : "Harsha",
+       "city":"mequon",
+       "phone":"704 456 7890"
+    }
+ }
